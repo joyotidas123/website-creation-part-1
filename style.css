@@ -1,0 +1,18 @@
+.nav-link{
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+}
+.nav-link:hover{
+    background-color: blueviolet;
+}
+.main-container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwpEzpEPPHYvQd58Gaa-TjQaztwIfsEJ86uw&s");
+    background-attachment: fixed;
+    background-size: cover;
+}
